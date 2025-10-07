@@ -2,16 +2,16 @@
 
 Projekat 1
 ## Algoritmi kompresije
-Shannon-Fano
+
 Shannon-Fano je algoritam za kompresiju podataka koji koristi frekvenciju simbola da izgradi binarno stablo kodiranja. Simboli sa većom frekvencijom dobijaju kraće kodove, što omogućava efikasnu kompresiju za podatke sa poznatom statistikom.
 
-Huffman
+
 Huffmanov algoritam za kompresiju koji gradi binarno stablo na osnovu frekvencije simbola, dodjeljujući kraće kodove češćim simbolima. Koristi prioritetni red za izgradnju stabla i rezultuje optimalnim prefiks kodovima bez gubitka podataka.
 
-LZ77
+
 LZ77 je algoritam za kompresiju bez gubitaka koji traži ponavljanja u prozoru podataka i zamenjuje ih pokazivačima na prethodne sekvence. Koristi klizni prozor i dužinu podudaranja za efikasnu kompresiju repetitivnih podataka.
 
-LZW
+
 LZW (Lempel-Ziv-Welch) je algoritam za kompresiju koji gradi rečnik sekvenci tokom procesa kodiranja. Počinje sa pojedinačnim simbolima i dodaje nove sekvence u rečnik, zamenjujući ih kodovima za bržu kompresiju.
 
 ### 1. Bajt.cs
