@@ -81,13 +81,13 @@ Postoje dva ulazna fajla sa različitom entropijom:
 Fajlovi su generisani online alatom za generisanje binarnih fajlova sa zadatim sablonima
 
 Nakon pokretanja programa za oba fajla, dobijamo sledece rezultate:
-za `ulazVisokaEntropija.bin`:
+### za `ulazVisokaEntropija.bin`:
 	Stepeni kompresije:
 	Shannon-Fano: 0.998x (usteda: -0.2%)
 	Huffman:      0.9985x (usteda: -0.15%)
 	LZ77:         0.3274x (usteda: -205.44%)
 	LZW:          0.4914x (usteda: -103.5%)
-za `ulazNiskaEntropija.bin`:
+### za `ulazNiskaEntropija.bin`:
 	Stepeni kompresije:
 	Shannon-Fano: 7.9005x (usteda: 87.34%)
 	Huffman:      7.9012x (usteda: 87.34%)
