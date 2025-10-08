@@ -1,0 +1,15 @@
+C:\Users\dami0\OneDrive\Desktop\Kompresija\Damjan Kompresija Projekat\Kompresija\Kompresija-i-zastita-podataka\bin\Debug\net8.0\Kompresija.exe
+C:\Users\dami0\OneDrive\Desktop\Kompresija\Damjan Kompresija Projekat\Kompresija\Kompresija-i-zastita-podataka\bin\Debug\net8.0\Kompresija.deps.json
+C:\Users\dami0\OneDrive\Desktop\Kompresija\Damjan Kompresija Projekat\Kompresija\Kompresija-i-zastita-podataka\bin\Debug\net8.0\Kompresija.runtimeconfig.json
+C:\Users\dami0\OneDrive\Desktop\Kompresija\Damjan Kompresija Projekat\Kompresija\Kompresija-i-zastita-podataka\bin\Debug\net8.0\Kompresija.dll
+C:\Users\dami0\OneDrive\Desktop\Kompresija\Damjan Kompresija Projekat\Kompresija\Kompresija-i-zastita-podataka\bin\Debug\net8.0\Kompresija.pdb
+C:\Users\dami0\OneDrive\Desktop\Kompresija\Damjan Kompresija Projekat\Kompresija\Kompresija-i-zastita-podataka\obj\Debug\net8.0\Kompresija.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dami0\OneDrive\Desktop\Kompresija\Damjan Kompresija Projekat\Kompresija\Kompresija-i-zastita-podataka\obj\Debug\net8.0\Kompresija.AssemblyInfoInputs.cache
+C:\Users\dami0\OneDrive\Desktop\Kompresija\Damjan Kompresija Projekat\Kompresija\Kompresija-i-zastita-podataka\obj\Debug\net8.0\Kompresija.AssemblyInfo.cs
+C:\Users\dami0\OneDrive\Desktop\Kompresija\Damjan Kompresija Projekat\Kompresija\Kompresija-i-zastita-podataka\obj\Debug\net8.0\Kompresija.csproj.CoreCompileInputs.cache
+C:\Users\dami0\OneDrive\Desktop\Kompresija\Damjan Kompresija Projekat\Kompresija\Kompresija-i-zastita-podataka\obj\Debug\net8.0\Kompresija.sourcelink.json
+C:\Users\dami0\OneDrive\Desktop\Kompresija\Damjan Kompresija Projekat\Kompresija\Kompresija-i-zastita-podataka\obj\Debug\net8.0\Kompresija.dll
+C:\Users\dami0\OneDrive\Desktop\Kompresija\Damjan Kompresija Projekat\Kompresija\Kompresija-i-zastita-podataka\obj\Debug\net8.0\refint\Kompresija.dll
+C:\Users\dami0\OneDrive\Desktop\Kompresija\Damjan Kompresija Projekat\Kompresija\Kompresija-i-zastita-podataka\obj\Debug\net8.0\Kompresija.pdb
+C:\Users\dami0\OneDrive\Desktop\Kompresija\Damjan Kompresija Projekat\Kompresija\Kompresija-i-zastita-podataka\obj\Debug\net8.0\Kompresija.genruntimeconfig.cache
+C:\Users\dami0\OneDrive\Desktop\Kompresija\Damjan Kompresija Projekat\Kompresija\Kompresija-i-zastita-podataka\obj\Debug\net8.0\ref\Kompresija.dll

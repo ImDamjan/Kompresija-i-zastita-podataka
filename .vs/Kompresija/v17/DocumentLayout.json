@@ -1,0 +1,279 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dami0\\OneDrive\\Desktop\\Kompresija\\Damjan Kompresija Projekat\\Kompresija\\Kompresija-i-zastita-podataka\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BAB1A161-8442-4986-9316-A51704FCB114}|Kompresija.csproj|c:\\users\\dami0\\onedrive\\desktop\\kompresija\\damjan kompresija projekat\\kompresija\\kompresija-i-zastita-podataka\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{BAB1A161-8442-4986-9316-A51704FCB114}|Kompresija.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAB1A161-8442-4986-9316-A51704FCB114}|Kompresija.csproj|c:\\users\\dami0\\onedrive\\desktop\\kompresija\\damjan kompresija projekat\\kompresija\\kompresija-i-zastita-podataka\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAB1A161-8442-4986-9316-A51704FCB114}|Kompresija.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAB1A161-8442-4986-9316-A51704FCB114}|Kompresija.csproj|c:\\users\\dami0\\onedrive\\desktop\\kompresija\\damjan kompresija projekat\\kompresija\\kompresija-i-zastita-podataka\\lzw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAB1A161-8442-4986-9316-A51704FCB114}|Kompresija.csproj|solutionrelative:lzw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAB1A161-8442-4986-9316-A51704FCB114}|Kompresija.csproj|c:\\users\\dami0\\onedrive\\desktop\\kompresija\\damjan kompresija projekat\\kompresija\\kompresija-i-zastita-podataka\\lz77.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAB1A161-8442-4986-9316-A51704FCB114}|Kompresija.csproj|solutionrelative:lz77.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAB1A161-8442-4986-9316-A51704FCB114}|Kompresija.csproj|c:\\users\\dami0\\onedrive\\desktop\\kompresija\\damjan kompresija projekat\\kompresija\\kompresija-i-zastita-podataka\\huffman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAB1A161-8442-4986-9316-A51704FCB114}|Kompresija.csproj|solutionrelative:huffman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAB1A161-8442-4986-9316-A51704FCB114}|Kompresija.csproj|c:\\users\\dami0\\onedrive\\desktop\\kompresija\\damjan kompresija projekat\\kompresija\\kompresija-i-zastita-podataka\\entropija.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAB1A161-8442-4986-9316-A51704FCB114}|Kompresija.csproj|solutionrelative:entropija.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAB1A161-8442-4986-9316-A51704FCB114}|Kompresija.csproj|c:\\users\\dami0\\onedrive\\desktop\\kompresija\\damjan kompresija projekat\\kompresija\\kompresija-i-zastita-podataka\\decode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAB1A161-8442-4986-9316-A51704FCB114}|Kompresija.csproj|solutionrelative:decode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAB1A161-8442-4986-9316-A51704FCB114}|Kompresija.csproj|c:\\users\\dami0\\onedrive\\desktop\\kompresija\\damjan kompresija projekat\\kompresija\\kompresija-i-zastita-podataka\\bajt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAB1A161-8442-4986-9316-A51704FCB114}|Kompresija.csproj|solutionrelative:bajt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAB1A161-8442-4986-9316-A51704FCB114}|Kompresija.csproj|c:\\users\\dami0\\onedrive\\desktop\\kompresija\\damjan kompresija projekat\\kompresija\\kompresija-i-zastita-podataka\\stepenkompresije.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAB1A161-8442-4986-9316-A51704FCB114}|Kompresija.csproj|solutionrelative:stepenkompresije.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAB1A161-8442-4986-9316-A51704FCB114}|Kompresija.csproj|c:\\users\\dami0\\onedrive\\desktop\\kompresija\\damjan kompresija projekat\\kompresija\\kompresija-i-zastita-podataka\\ucitanibajt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAB1A161-8442-4986-9316-A51704FCB114}|Kompresija.csproj|solutionrelative:ucitanibajt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAB1A161-8442-4986-9316-A51704FCB114}|Kompresija.csproj|c:\\users\\dami0\\onedrive\\desktop\\kompresija\\damjan kompresija projekat\\kompresija\\kompresija-i-zastita-podataka\\shannonfano.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAB1A161-8442-4986-9316-A51704FCB114}|Kompresija.csproj|solutionrelative:shannonfano.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 164,
+          "SelectedChildIndex": 18,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\dami0\\OneDrive\\Desktop\\Kompresija\\Damjan Kompresija Projekat\\Kompresija\\Kompresija-i-zastita-podataka\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\dami0\\OneDrive\\Desktop\\Kompresija\\Damjan Kompresija Projekat\\Kompresija\\Kompresija-i-zastita-podataka\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-10-07T19:45:15.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StepenKompresije.cs",
+              "DocumentMoniker": "C:\\Users\\dami0\\OneDrive\\Desktop\\Kompresija\\Damjan Kompresija Projekat\\Kompresija\\Kompresija-i-zastita-podataka\\StepenKompresije.cs",
+              "RelativeDocumentMoniker": "StepenKompresije.cs",
+              "ToolTip": "C:\\Users\\dami0\\OneDrive\\Desktop\\Kompresija\\Damjan Kompresija Projekat\\Kompresija\\Kompresija-i-zastita-podataka\\StepenKompresije.cs",
+              "RelativeToolTip": "StepenKompresije.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowDEAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T18:22:31.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Bajt.cs",
+              "DocumentMoniker": "C:\\Users\\dami0\\OneDrive\\Desktop\\Kompresija\\Damjan Kompresija Projekat\\Kompresija\\Kompresija-i-zastita-podataka\\Bajt.cs",
+              "RelativeDocumentMoniker": "Bajt.cs",
+              "ToolTip": "C:\\Users\\dami0\\OneDrive\\Desktop\\Kompresija\\Damjan Kompresija Projekat\\Kompresija\\Kompresija-i-zastita-podataka\\Bajt.cs",
+              "RelativeToolTip": "Bajt.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T15:22:50.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Huffman.cs",
+              "DocumentMoniker": "C:\\Users\\dami0\\OneDrive\\Desktop\\Kompresija\\Damjan Kompresija Projekat\\Kompresija\\Kompresija-i-zastita-podataka\\Huffman.cs",
+              "RelativeDocumentMoniker": "Huffman.cs",
+              "ToolTip": "C:\\Users\\dami0\\OneDrive\\Desktop\\Kompresija\\Damjan Kompresija Projekat\\Kompresija\\Kompresija-i-zastita-podataka\\Huffman.cs",
+              "RelativeToolTip": "Huffman.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAAAFgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T15:25:05.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LZW.cs",
+              "DocumentMoniker": "C:\\Users\\dami0\\OneDrive\\Desktop\\Kompresija\\Damjan Kompresija Projekat\\Kompresija\\Kompresija-i-zastita-podataka\\LZW.cs",
+              "RelativeDocumentMoniker": "LZW.cs",
+              "ToolTip": "C:\\Users\\dami0\\OneDrive\\Desktop\\Kompresija\\Damjan Kompresija Projekat\\Kompresija\\Kompresija-i-zastita-podataka\\LZW.cs",
+              "RelativeToolTip": "LZW.cs",
+              "ViewState": "AgIAAEABAAAAAAAAAAAAAE8BAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T17:08:35.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LZ77.cs",
+              "DocumentMoniker": "C:\\Users\\dami0\\OneDrive\\Desktop\\Kompresija\\Damjan Kompresija Projekat\\Kompresija\\Kompresija-i-zastita-podataka\\LZ77.cs",
+              "RelativeDocumentMoniker": "LZ77.cs",
+              "ToolTip": "C:\\Users\\dami0\\OneDrive\\Desktop\\Kompresija\\Damjan Kompresija Projekat\\Kompresija\\Kompresija-i-zastita-podataka\\LZ77.cs",
+              "RelativeToolTip": "LZ77.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T17:06:05.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Decode.cs",
+              "DocumentMoniker": "C:\\Users\\dami0\\OneDrive\\Desktop\\Kompresija\\Damjan Kompresija Projekat\\Kompresija\\Kompresija-i-zastita-podataka\\Decode.cs",
+              "RelativeDocumentMoniker": "Decode.cs",
+              "ToolTip": "C:\\Users\\dami0\\OneDrive\\Desktop\\Kompresija\\Damjan Kompresija Projekat\\Kompresija\\Kompresija-i-zastita-podataka\\Decode.cs",
+              "RelativeToolTip": "Decode.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAADwvyMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T16:02:13.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UcitaniBajt.cs",
+              "DocumentMoniker": "C:\\Users\\dami0\\OneDrive\\Desktop\\Kompresija\\Damjan Kompresija Projekat\\Kompresija\\Kompresija-i-zastita-podataka\\UcitaniBajt.cs",
+              "RelativeDocumentMoniker": "UcitaniBajt.cs",
+              "ToolTip": "C:\\Users\\dami0\\OneDrive\\Desktop\\Kompresija\\Damjan Kompresija Projekat\\Kompresija\\Kompresija-i-zastita-podataka\\UcitaniBajt.cs",
+              "RelativeToolTip": "UcitaniBajt.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAzwA0AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T16:01:34.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ShannonFano.cs",
+              "DocumentMoniker": "C:\\Users\\dami0\\OneDrive\\Desktop\\Kompresija\\Damjan Kompresija Projekat\\Kompresija\\Kompresija-i-zastita-podataka\\ShannonFano.cs",
+              "RelativeDocumentMoniker": "ShannonFano.cs",
+              "ToolTip": "C:\\Users\\dami0\\OneDrive\\Desktop\\Kompresija\\Damjan Kompresija Projekat\\Kompresija\\Kompresija-i-zastita-podataka\\ShannonFano.cs",
+              "RelativeToolTip": "ShannonFano.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAwwEsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T15:25:44.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Entropija.cs",
+              "DocumentMoniker": "C:\\Users\\dami0\\OneDrive\\Desktop\\Kompresija\\Damjan Kompresija Projekat\\Kompresija\\Kompresija-i-zastita-podataka\\Entropija.cs",
+              "RelativeDocumentMoniker": "Entropija.cs",
+              "ToolTip": "C:\\Users\\dami0\\OneDrive\\Desktop\\Kompresija\\Damjan Kompresija Projekat\\Kompresija\\Kompresija-i-zastita-podataka\\Entropija.cs",
+              "RelativeToolTip": "Entropija.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAgwBIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T14:31:04.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dami0\\OneDrive\\Desktop\\Kompresija\\Damjan Kompresija Projekat\\Kompresija\\Kompresija-i-zastita-podataka\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\dami0\\OneDrive\\Desktop\\Kompresija\\Damjan Kompresija Projekat\\Kompresija\\Kompresija-i-zastita-podataka\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA+wBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T12:40:05.052Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
